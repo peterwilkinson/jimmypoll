@@ -1,0 +1,24 @@
+{
+  "favorites": [
+    {
+      "name": "What was the toy that was made in the 90's that people collected like crazy and there were just so many of them that I had to make this question eqully as long because you know, we just have to find out how much text we can fit?",
+      "choices": [
+        "Tamagotchis",
+        "Furbies",
+        "Transformers",
+        "Beanie Babies"
+      ],
+      "answer": "Beanie Babies"
+    },
+    {
+      "name": "What is the furbish word for Hug",
+      "choices": [
+        "Dah-boo",
+        "Ah-noo",
+        "May-lah",
+        "Oo-Tah-Toh-Toh"
+      ],
+      "answer": "May-lah"
+    }
+  ]
+}
